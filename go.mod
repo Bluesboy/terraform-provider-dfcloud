@@ -1,4 +1,4 @@
-module github.com/dragonflydb/terraform-provider-dfcloud
+module github.com/Bluesboy/terraform-provider-dfcloud
 
 go 1.25.3
 

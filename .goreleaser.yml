@@ -53,7 +53,7 @@ signs:
       - "${artifact}"
 release:
   github:
-    owner: dragonflydb
+    owner: Bluesboy
     name: terraform-provider-dfcloud
   extra_files:
     - glob: 'terraform-registry-manifest.json'

@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     dfcloud = {
-      source = "registry.terraform.io/dragonflydb/dfcloud"
+      source = "registry.terraform.io/Bluesboy/dfcloud"
     }
   }
 }

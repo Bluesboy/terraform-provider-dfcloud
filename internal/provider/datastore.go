@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dragonflydb/terraform-provider-dfcloud/internal/resource_model"
-	dfcloud "github.com/dragonflydb/terraform-provider-dfcloud/internal/sdk"
+	"github.com/Bluesboy/terraform-provider-dfcloud/internal/resource_model"
+	dfcloud "github.com/Bluesboy/terraform-provider-dfcloud/internal/sdk"
 	"github.com/hashicorp/terraform-plugin-framework/resource"
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema"
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema/boolplanmodifier"

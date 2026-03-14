@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     dfcloud = {
-      source  = "dragonflydb/dfcloud"
+      source  = "Bluesboy/dfcloud"
       version = "0.0.5"
     }
   }

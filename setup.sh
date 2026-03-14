@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-ORGANIZATION_NAME="dragonflydb"
+ORGANIZATION_NAME="Bluesboy"
 PROVIDER_NAME="terraform-provider-dfcloud"
 TF_PROVIDER_NAME="dfcloud"
 

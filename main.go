@@ -5,7 +5,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/dragonflydb/terraform-provider-dfcloud/internal/provider"
+	"github.com/Bluesboy/terraform-provider-dfcloud/internal/provider"
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
 )
 
@@ -22,7 +22,7 @@ func main() {
 	flag.Parse()
 
 	opts := providerserver.ServeOpts{
-		Address: "registry.terraform.io/dragonflydb/dfcloud",
+		Address: "registry.terraform.io/Bluesboy/dfcloud",
 		Debug:   debug,
 	}
 

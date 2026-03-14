@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	dfcloud "github.com/dragonflydb/terraform-provider-dfcloud/internal/sdk"
+	dfcloud "github.com/Bluesboy/terraform-provider-dfcloud/internal/sdk"
 	"github.com/hashicorp/terraform-plugin-framework/attr"
 	"github.com/hashicorp/terraform-plugin-framework/types"
 )

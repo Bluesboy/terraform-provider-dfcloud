@@ -3,7 +3,7 @@ package provider
 import (
 	"context"
 
-	dfcloud "github.com/dragonflydb/terraform-provider-dfcloud/internal/sdk"
+	dfcloud "github.com/Bluesboy/terraform-provider-dfcloud/internal/sdk"
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/provider"
 	"github.com/hashicorp/terraform-plugin-framework/provider/schema"
